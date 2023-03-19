@@ -1,0 +1,4 @@
+#Fri Mar 17 20:30:26 IST 2023
+base.0=/home/shreyansh03/Desktop/IIT Jodhpur/Flutter_udemy/flutter_complete_guide/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
